@@ -41,7 +41,7 @@
 		"DisplayMenuBar": "always",
 		"DNSOverHTTPS": {
 			"Enabled": true,
-			"ProviderURL": "https://dns.quad9.net/dns-query",
+			"ProviderURL": "https://security.cloudflare-dns.com/dns-query",
 			"Locked": true,
 			"Fallback": false
 		},
