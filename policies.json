@@ -18,7 +18,7 @@
 		"DisabledCiphers": {
 			"TLS_RSA_WITH_3DES_EDE_CBC_SHA": true
 		},
-		"DisableDeveloperTools": true,
+		"DisableDeveloperTools": false,
 		"DisableFeedbackCommands": true,
 		"DisableEncryptedClientHello": false,
 		"DisableFirefoxAccounts": true,
@@ -43,6 +43,7 @@
 			"Enabled": true,
 			"ProviderURL": "https://security.cloudflare-dns.com/dns-query",
 			"Locked": true,
+			"ExcludedDomains": ["filters.adtidy.org"],
 			"Fallback": false
 		},
 		"DontCheckDefaultBrowser": true,
