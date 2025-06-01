@@ -149,6 +149,10 @@
 			"Locked": true
 		},
 		"SearchBar": "separate",
+		"SearchEngines": {
+			"Default": "DuckDuckGo",
+			"PreventInstalls": true
+		},
 		"SearchSuggestEnabled": false,
 		"ShowHomeButton": false,
 		"SSLVersionMin": "tls1.2",
