@@ -27,7 +27,6 @@
 		"DisableForgetButton": true,
 		"DisableFormHistory": true,
 		"DisableMasterPasswordCreation": true,
-		"DisablePocket": true,
 		"DisableProfileImport": true,
 		"DisableProfileRefresh": true,
 		"DisableSafeMode": true,
