@@ -126,6 +126,14 @@
 			"Autoplay": {
 				"Default": "block-audio-video",
 				"Locked": true
+			},
+			"VirtualReality": {
+				"BlockNewRequests": true,
+				"Locked": true
+			},
+			"ScreenShare": {
+				"BlockNewRequests": true,
+				"Locked": true
 			}
 		},
 		"PictureInPicture": {
