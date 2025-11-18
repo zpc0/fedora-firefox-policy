@@ -50,7 +50,9 @@
 		"EnableTrackingProtection": {
 			"Value": true,
 			"Locked": true,
-			"Category": "strict"
+			"Category": "strict",
+			"BaselineExceptions": true,
+			"ConvenienceExceptions": false
 		},
 		"EncryptedMediaExtensions": {
 			"Enabled": false,
@@ -87,6 +89,13 @@
 			"WebSuggestions": false,
 			"SponsoredSuggestions": false,
 			"ImproveSuggest": false,
+			"Locked": true
+		},
+		"GenerativeAI": {
+			"Enabled": false,
+			"Chatbot": false,
+			"LinkPreviews": false,
+			"TabGroups": false,
 			"Locked": true
 		},
 		"GoToIntranetSiteForSingleWordEntryInAddressBar": false,
@@ -175,6 +184,7 @@
 			"FirefoxLabs": false,
 			"Locked": true
 		},
+		"VisualSearchEnabled": false,
 		"WindowsSSO": false,
 		"Preferences": {
 			"accessibility.force_disabled": {
