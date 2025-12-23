@@ -5,6 +5,10 @@
 		"BlockAboutConfig": true,
 		"BlockAboutProfiles": true,
 		"BlockAboutSupport": true,
+		"BrowserDataBackup": {
+			"AllowBackup": false,
+			"AllowRestore": false
+		},
 		"CaptivePortal": false,
 		"Certificates": {
 			"ImportEnterpriseRoots": false
