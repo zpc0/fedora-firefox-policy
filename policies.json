@@ -125,13 +125,6 @@
 			"ImproveSuggest": false,
 			"Locked": true
 		},
-		"GenerativeAI": {
-			"Enabled": false,
-			"Chatbot": false,
-			"LinkPreviews": false,
-			"TabGroups": false,
-			"Locked": true
-		},
 		"GoToIntranetSiteForSingleWordEntryInAddressBar": false,
 		"Homepage": {
 			"URL": "about:blank",
@@ -209,7 +202,6 @@
 		"ShowHomeButton": false,
 		"SkipTermsOfUse": true,
 		"SSLVersionMin": "tls1.2",
-		"TranslateEnabled": false,
 		"UserMessaging": {
 			"ExtensionRecommendations": false,
 			"FeatureRecommendations": false,
