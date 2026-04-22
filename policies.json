@@ -48,6 +48,7 @@
 			"Behavior": "reject-foreign",
 			"BehaviorPrivateBrowsing": "reject-foreign"
 		},
+		"DisableAccounts": true,
 		"DisableAppUpdate": true,
 		"DisabledCiphers": {
 			"TLS_RSA_WITH_3DES_EDE_CBC_SHA": true
@@ -112,9 +113,7 @@
 			"TopSites": false,
 			"SponsoredTopSites": false,
 			"Highlights": false,
-			"Pocket": false,
 			"Stories": false,
-			"SponsoredPocket": false,
 			"SponsoredStories": false,
 			"Snippets": false,
 			"Locked": true
@@ -133,6 +132,12 @@
 		},
 		"HttpsOnlyMode": "force_enabled",
 		"IPProtectionAvailable": false,
+		"LocalNetworkAccess": {
+			"Enabled": true,
+			"BlockTrackers": true,
+			"EnablePrompting": true,
+			"Locked": true
+		},
 		"NetworkPrediction": false,
 		"NewTabPage": false,
 		"NoDefaultBookmarks": true,
