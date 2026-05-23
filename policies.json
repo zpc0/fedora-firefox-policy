@@ -48,6 +48,7 @@
 			"Behavior": "reject-foreign",
 			"BehaviorPrivateBrowsing": "reject-foreign"
 		},
+		"DefaultSerialGuardSetting": 2,
 		"DisableAccounts": true,
 		"DisableAppUpdate": true,
 		"DisabledCiphers": {
