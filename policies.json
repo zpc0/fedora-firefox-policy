@@ -111,6 +111,7 @@
 		"ExtensionUpdate": true,
 		"FirefoxHome": {
 			"Search": false,
+			"Weather": false,
 			"TopSites": false,
 			"SponsoredTopSites": false,
 			"Highlights": false,
@@ -219,6 +220,7 @@
 		},
 		"VisualSearchEnabled": false,
 		"WindowsSSO": false,
+		"XSLTEnabled": false,
 		"Preferences": {
 			"accessibility.force_disabled": {
 				"Value": 1,
