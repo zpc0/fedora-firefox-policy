@@ -51,9 +51,6 @@
 		"DefaultSerialGuardSetting": 2,
 		"DisableAccounts": true,
 		"DisableAppUpdate": true,
-		"DisabledCiphers": {
-			"TLS_RSA_WITH_3DES_EDE_CBC_SHA": true
-		},
 		"DisableDeveloperTools": false,
 		"DisableFeedbackCommands": true,
 		"DisableEncryptedClientHello": false,
@@ -235,8 +232,12 @@
 				"Value": false,
 				"Status": "locked"
 			},
-			"security.tls.enable_0rtt_data": {
-				"Value": false,
+			"privacy.fingerprintingProtection": {
+				"Value": true,
+				"Status": "locked"
+			},
+			"privacy.globalprivacycontrol.enabled": {
+				"Value": true,
 				"Status": "locked"
 			},
 			"general.autoScroll": {
@@ -370,10 +371,6 @@
 			},
 			"browser.download.manager.addToRecentDocs": {
 				"Value": false,
-				"Status": "locked"
-			},
-			"browser.contentblocking.category": {
-				"Value": "strict",
 				"Status": "locked"
 			},
 			"browser.link.open_newwindow": {
