@@ -240,6 +240,10 @@
 				"Value": true,
 				"Status": "locked"
 			},
+			"network.http.http2.enabled": {
+				"Value": false,
+				"Status": "locked"
+			},
 			"general.autoScroll": {
 				"Value": false,
 				"Status": "locked"

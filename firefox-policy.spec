@@ -1,6 +1,6 @@
 Name:		firefox-policy
 Version:	152.0.0
-Release:	2%{?dist}
+Release:	3%{?dist}
 Summary:	Custom policies for Mozilla Firefox
 
 License:	GPL-3.0-or-later
