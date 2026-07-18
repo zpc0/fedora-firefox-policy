@@ -1,3 +1,3 @@
 // Custom Firefox configs
-lockPref("general.useragent.override", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0");
+lockPref("general.useragent.override", "Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0");
 
