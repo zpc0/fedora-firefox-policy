@@ -241,7 +241,7 @@
 				"Status": "locked"
 			},
 			"network.http.http2.enabled": {
-				"Value": false,
+				"Value": true,
 				"Status": "locked"
 			},
 			"general.autoScroll": {
