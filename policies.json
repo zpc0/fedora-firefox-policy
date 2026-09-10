@@ -127,7 +127,8 @@
 		"Homepage": {
 			"URL": "about:blank",
 			"Locked": true,
-			"StartPage": "none"
+			"StartPage": "none",
+			"NewTabOnRestore": false
 		},
 		"HttpsOnlyMode": "force_enabled",
 		"IPProtectionAvailable": false,
