@@ -1,5 +1,5 @@
 Name:		firefox-policy
-Version:	155.0.0
+Version:	156.0.0
 Release:	1%{?dist}
 Summary:	Custom policies for Mozilla Firefox
 

@@ -115,6 +115,9 @@
 			"Stories": false,
 			"SponsoredStories": false,
 			"Snippets": false,
+			"Widgets": {
+				"Enabled": false
+			},
 			"Locked": true
 		},
 		"FirefoxSuggest": {
