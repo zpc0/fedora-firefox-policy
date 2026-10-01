@@ -28,6 +28,10 @@
 			"SmartWindow": {
 				"Value": "blocked",
 				"Locked": true
+			},
+			"SpeechRecognition": {
+				"Value": "blocked",
+				"Locked": true
 			}
 		},
 		"AutofillAddressEnabled": false,
