@@ -127,7 +127,7 @@
 		"FirefoxSuggest": {
 			"WebSuggestions": false,
 			"SponsoredSuggestions": false,
-			"ImproveSuggest": false,
+			"OnlineEnabled": false,
 			"Locked": true
 		},
 		"GoToIntranetSiteForSingleWordEntryInAddressBar": false,
