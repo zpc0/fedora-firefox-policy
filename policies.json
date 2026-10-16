@@ -47,6 +47,12 @@
 		"Certificates": {
 			"ImportEnterpriseRoots": false
 		},
+		"ClearOnShutdown": {
+			"BrowsingHistoryAndDownloads": true,
+			"Cache": true,
+			"FormData": true,
+			"SiteSettings": true
+		},
 		"Cookies": {
 			"Locked": true,
 			"Behavior": "reject-foreign",
@@ -197,12 +203,6 @@
 		"PrintingEnabled": false,
 		"Proxy": {
 			"Mode": "none",
-			"Locked": true
-		},
-		"SanitizeOnShutdown": {
-			"Cache": true,
-			"History": true,
-			"SiteSettings": true,
 			"Locked": true
 		},
 		"SearchBar": "separate",
