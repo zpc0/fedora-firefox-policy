@@ -5,7 +5,7 @@ permissions: {}
 jobs:
   rpmlint:
     runs-on: ubuntu-latest
-    container: fedora:latest
+    container: quay.io/fedora/fedora:latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
