@@ -329,11 +329,47 @@
 				"Value": false,
 				"Status": "locked"
 			},
-			"browser.urlbar.suggest.searchs": {
+			"browser.urlbar.suggest.bookmark": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.clipboard": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.history": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.openpage": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.remotetab": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.searches": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.topsites": {
 				"Value": false,
 				"Status": "locked"
 			},
 			"browser.urlbar.suggest.engines": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.calculator": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.recentsearches": {
+				"Value": false,
+				"Status": "locked"
+			},
+			"browser.urlbar.suggest.quickactions": {
 				"Value": false,
 				"Status": "locked"
 			},
@@ -383,22 +419,6 @@
 			},
 			"browser.download.forbid_open_with": {
 				"Value": true,
-				"Status": "locked"
-			},
-			"browser.urlbar.suggest.history": {
-				"Value": false,
-				"Status": "locked"
-			},
-			"browser.urlbar.suggest.bookmark": {
-				"Value": false,
-				"Status": "locked"
-			},
-			"browser.urlbar.suggest.openpage": {
-				"Value": false,
-				"Status": "locked"
-			},
-			"browser.urlbar.suggest.topsites": {
-				"Value": false,
 				"Status": "locked"
 			},
 			"browser.pagethumbnails.capturing_disabled": {
