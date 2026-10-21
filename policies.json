@@ -248,10 +248,6 @@
 				"Value": true,
 				"Status": "locked"
 			},
-			"network.http.http2.enabled": {
-				"Value": true,
-				"Status": "locked"
-			},
 			"general.autoScroll": {
 				"Value": false,
 				"Status": "locked"
@@ -269,10 +265,6 @@
 				"Status": "locked"
 			},
 			"browser.discovery.enabled": {
-				"Value": false,
-				"Status": "locked"
-			},
-			"browser.shopping.experience2023.enabled": {
 				"Value": false,
 				"Status": "locked"
 			},
